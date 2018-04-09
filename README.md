@@ -7,20 +7,20 @@
 ### Quick View
 
 | Dashboard/Login | Articles/News | Videos | Add Post | Home |
-|--------------|--------|-----------------|----------|
-|<img src='./public/images/screenshots/a.png' width='175px' />| <img src='./public/images/screenshots/b.png' width='175px' />|<img src='./public/images/screenshots/c.png' width='175px' /> | <img src='./public/images/screenshots/e.png' width='175px' /> |<img src='./public/images/screenshots/g.png' width='175px' />|<img 
+|--------------|--------|-----------------|----------|--------|
+|<img src='./public/images/screenshots/a.png' width='175px' />| <img src='./public/images/screenshots/b.png' width='175px' />|<img src='./public/images/screenshots/c.png' width='175px' /> | <img src='./public/images/screenshots/e.png' width='175px' /> |<img src='./public/images/screenshots/g.png' width='175px' />|
 
 
 
 
 * Provide a brief description about your project that answers the following questions:
-``` I'm creating an apps for Basketball Lovers, it includes latest movies, news, blogs, funny moments, best shots and many more. ```
+``` I'm creating an apps for Car Enthusiasts, it includes latest movies, news, blogs, sell you your cars and many more. ```
 ---------------------------------------
 * What problem or need does your project solve?
 ```I need to invest a lot of hours to finished at the same time mastering react. some of the modules are still hard for me to understand clearly. ```
 --------------------------------------
 * Who would be a user of your website?
-```the user will be most likely those people that are inlove with NBA, sports and entertainments.```
+```the user will be most likely those people that likes Cars,ideas about upgrades for cars sports and entertainments.```
 ----------------------------------------
 * What technologies will you be using?
 ```i will be using reactJS, node modules NPM's ( npm i react-router-dom react-fontawesome react-simple-sidenav react-slick axios json-server –dev) and firebase database, authenticaton, hosting, Heroku and many morer```
@@ -29,12 +29,12 @@
 
 ### My Journey in Creating this Apps
 
-##### All credits to galvanize, to my teacher Adam for my Q3 project, to my classmates for helping me reach my potentials, to Coding Revolution and Udemy Courses to enhance my learning
+##### All credits to galvanize, to my instructor Delmer, to my classmates for helping me reach my potentials in WDI.
 
 ##### Steps
 | Title | Commands | Comments |
 |-------|----------|----------|
-| setting up | create-react-app nba_2018 | creating a new projects |
+| setting up | create-react-app Carmania_capstone | creating a new projects |
 | font-awesome | https://cdnjs.com/libraries/font-awesome | paste it on index.html|
 | side-nav | https://www.npmjs.com/package/react-simple-sidenav | side navigation |
 | slides react-slick | https://github.com/akiran/react-slick | for slides|
@@ -59,4 +59,5 @@
 | tools |	npm install -g firebase-tools | initialization |
 | firebase login | 	firebase init | 	firebase deploy |
 | heroku | heroku login, heroku create nba-app-2018, heroku deploy | enjoy and dont forget to sign in and try my app! |
+
 # Carmania_capstone

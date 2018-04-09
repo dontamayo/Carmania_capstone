@@ -6,10 +6,9 @@
 
 ### Quick View
 
-| Aricles/News | Videos | Dashboard/Login | Add Post |
+| Dashboard/Login | Articles/News | Videos | Add Post | Home |
 |--------------|--------|-----------------|----------|
-|<img src='./public/images/screenshots/a.png' width='175px' />| <img src='./public/images/screenshots/b.png' width='175px' />|<img src='./public/images/screenshots/c.png' width='175px' /> | <img src='./public/images/screenshots/d.png' width='175px' /> |<img src='./public/images/screenshots/e.png' width='175px' />|<img src='./public/images/screenshots/f.png' width='175px' />|<img src='./public/images/screenshots/g.png' width='175px' />|
-
+|<img src='./public/images/screenshots/a.png' width='175px' />| <img src='./public/images/screenshots/b.png' width='175px' />|<img src='./public/images/screenshots/c.png' width='175px' /> | <img src='./public/images/screenshots/e.png' width='175px' /> |<img src='./public/images/screenshots/g.png' width='175px' />|<img 
 
 
 

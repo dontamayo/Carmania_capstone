@@ -1,0 +1,1002 @@
+{
+    "articles":[
+        {
+            "id":1,
+            "team":3,
+            "title":"Excepteur sint occaecat cupidatat non proident.",
+            "image":"1.jpeg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":2,
+            "team":4,
+            "title":"Consectetur adipiscing elit, sed do eiusmod tempor incididunt ut",
+            "image":"2.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":3,
+            "team":3,
+            "title":"Labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud",
+            "image":"3.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":4,
+            "team":6,
+            "title":"Exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+            "image":"4.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":5,
+            "team":8,
+            "title":"Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat",
+            "image":"15.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":6,
+            "team":7,
+            "title":"Sed ut perspiciatis unde omnis iste natus error",
+            "image":"5.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":7,
+            "team":10,
+            "title":"Totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+            "image":"16.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":8,
+            "team":6,
+            "title":"Et quasi architecto beatae vitae dicta sunt explicabo",
+            "image":"6.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":9,
+            "team":14,
+            "title":"Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit",
+            "image":"7.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":10,
+            "team":14,
+            "title":"Magni dolores eos qui ratione voluptatem sequi nesciunt.",
+            "image":"8.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":11,
+            "team":2,
+            "title":"Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet",
+            "image":"9.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":12,
+            "team":4,
+            "title":"Adipisci velit, sed quia non numquam eius modi tempora incidunt",
+            "image":"10.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":13,
+            "team":7,
+            "title":"Ut labore et dolore magnam aliquam quaerat voluptatem",
+            "image":"11.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":14,
+            "team":9,
+            "title":"Ut enim ad minima veniam, quis nostrum exercitationem ullam",
+            "image":"12.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":15,
+            "team":9,
+            "title":"Quis autem vel eum iure reprehenderit qui in ea voluptate velit",
+            "image":"13.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":16,
+            "team":1,
+            "title":"Esse quam nihil molestiae consequatur",
+            "image":"14.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":17,
+            "team":3,
+            "title":"At vero eos et accusamus et iusto odio dignissimos ducimus ",
+            "image":"5.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        },
+        {
+            "id":18,
+            "team":4,
+            "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+            "image":"6.jpg",
+            "body":"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum",
+            "date":"10/12/2018",
+            "author":"John Secada",
+            "tags":["Knicks","Porzinguis"]
+        }
+    ],
+    "videos":[
+        {
+          "id":1,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"1.jpeg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":2,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"2.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":3,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"3.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":4,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"4.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":5,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"5.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":6,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"6.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+
+        {
+          "id":7,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"7.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":8,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"8.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":9,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"9.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":10,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"10.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":11,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"1.jpeg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":12,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"2.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":13,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"3.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":14,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"4.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":15,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"5.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":16,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"6.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":17,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"7.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        },
+        {
+          "id":18,
+          "team":2,
+          "title":"Qui blanditiis praesentium voluptatum deleniti atque corrupti quos",
+          "image":"8.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Boston","Oklahoma"]
+        },
+        {
+          "id":19,
+          "team":8,
+          "title":"Sed ut perspiciatis unde omnis iste natus error sit",
+          "image":"9.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["New York","Boston","Porzingis"]
+        },
+        {
+          "id":20,
+          "team":8,
+          "title":"Laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis",
+          "image":"10.jpg",
+          "url":"XKI0xlnMBZQ",
+          "date":"10/12/2018",
+          "tags":["Portland","Miami"]
+        }
+    ],
+    "teams": [
+        {
+          "id": 1,
+          "name": "Acura",
+          "city": "Atlanta",
+          "logo": "Acura.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Alfa Romeo",
+          "city": "Boston",
+          "logo": "alfa-romeo.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Aston-martin",
+          "city": "New Jersey",
+          "logo": "aston-martin.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 4,
+          "name": "Audi",
+          "city": "Charlotte",
+          "logo": "audi.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 5,
+          "name": "Bentley",
+          "city": "Chicago",
+          "logo": "Bentley.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "name": "BMW",
+          "city": "Cleveland",
+          "logo": "bmw.jpg",
+          "poll": "true",
+          "count": 2365,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "name": "Buggatti",
+          "city": "Dallas",
+          "logo": "buggatti.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "name": "Buick",
+          "city": "Manila",
+          "logo": "Buick.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "name": "Cadillac",
+          "city": "Detroit",
+          "logo": "Cadillac.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "name": "Chevrolet",
+          "city": "Golden State",
+          "logo": "Chevrolet.jpg",
+          "poll": "true",
+          "count": 2365,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "name": "Chrysler",
+          "city": "Houston",
+          "logo": "Chrysler.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "name": "Citroen",
+          "city": "Indiana",
+          "logo": "citroen.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "name": "Dodge",
+          "city": "Los Angeles",
+          "logo": "Dodge.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "name": "ferrari",
+          "city": "Los Angeles",
+          "logo": "ferrari.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "name": "fiat",
+          "city": "Vancouver",
+          "logo": "fiat.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "name": "Ford",
+          "city": "Miami",
+          "logo": "ford.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Geely",
+          "city": "Milwakee",
+          "logo": "Geely.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "name": "General-Motors",
+          "city": "Minnesota",
+          "logo": "General-Motors.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "name": "GMC",
+          "city": "New Orleans",
+          "logo": "GMC.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Honda",
+          "city": "New York",
+          "logo": "honda.jpg",
+          "poll": "true",
+          "count": 13,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 21,
+          "name": "Hyundai",
+          "city": "Oklahoma",
+          "logo": "hyundai.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 22,
+          "name": "Infiniti",
+          "city": "Orlando",
+          "logo": "Infiniti.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 23,
+          "name": "Jaguar",
+          "city": "Philadelphia",
+          "logo": "jaguar.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Jeep",
+          "city": "San Antonio",
+          "logo": "jeep.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Kia",
+          "city": "Phoenix",
+          "logo": "Kia.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 26,
+          "name": "Koenigsegg",
+          "city": "Sacramento",
+          "logo": "Koenigsegg.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 27,
+          "name": "Lamborghini",
+          "city": "Toronto",
+          "logo": "lamborghini.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 28,
+          "name": "Land Rover",
+          "city": "Utah",
+          "logo": "land-rover.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 29,
+          "name": "Maserati",
+          "city": "Utah",
+          "logo": "maserati.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 30,
+          "name": "Mazda",
+          "city": "Utah",
+          "logo": "mazda.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 31,
+          "name": "Mclaren",
+          "city": "Utah",
+          "logo": "mclaren.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 32,
+          "name": "Mercedes-Benz",
+          "city": "Utah",
+          "logo": "Mercedes-Benz.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 33,
+          "name": "Mitsubishi",
+          "city": "Utah",
+          "logo": "Mitsubishi.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 34,
+          "name": "nissan",
+          "city": "Utah",
+          "logo": "nissan.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 35,
+          "name": "Pagani",
+          "city": "Utah",
+          "logo": "Pagani.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 36,
+          "name": "Porsche",
+          "city": "Utah",
+          "logo": "porsche.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 37,
+          "name": "RAM",
+          "city": "Utah",
+          "logo": "RAM.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 38,
+          "name": "Subaru",
+          "city": "Utah",
+          "logo": "Subaru.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 39,
+          "name": "Tesla",
+          "city": "Utah",
+          "logo": "Tesla.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 40,
+          "name": "Toyota",
+          "city": "Utah",
+          "logo": "toyota.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 41,
+          "name": "Volvo",
+          "city": "Utah",
+          "logo": "volvo.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },{
+          "id": 42,
+          "name": "Volksvagen",
+          "city": "Utah",
+          "logo": "Volksvagen.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        },
+        {
+          "id": 43,
+          "name": "Lexus",
+          "city": "Portland",
+          "logo": "lexus.jpg",
+          "poll": "false",
+          "count": 0,
+          "description": "At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus. Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis doloribus asperiores repellat.",
+          "stats":[
+            {
+              "wins":23,
+              "defeats":12
+            }
+          ]
+        }
+      ]
+}

@@ -1,7 +1,7 @@
 ## MY NBA APP 2018
 -------------------------------------------------
 * Github: https://github.com/dontamayo/Carmania_capstone
-* Heroku:
+* Heroku: https://carmania2.herokuapp.com/
 * Firebase:
 
 ### Quick View

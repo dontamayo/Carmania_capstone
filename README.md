@@ -2,7 +2,11 @@
 -------------------------------------------------
 * Github: https://github.com/dontamayo/Carmania_capstone
 * Heroku: https://carmania2.herokuapp.com/
-* Firebase:
+---------------------------------------------------
+### About Carmania
+``` Carmania is about the obsession for cars, it is where people can see what's new in the market, reviews, buy and sell cars, cool videos and many more, I personally choose this project because this is what I always do on my spare time, watching youtube about car and even movies realated to cars and racing.```
+
+
 
 ### Quick View
 
@@ -58,6 +62,6 @@
 | building | npm run build | it will create a bundle for production that can rn though firebase or even heroku |
 | tools |	npm install -g firebase-tools | initialization |
 | firebase login | 	firebase init | 	firebase deploy |
-| heroku | heroku login, heroku create nba-app-2018, heroku deploy | enjoy and dont forget to sign in and try my app! |
+| heroku | heroku login, heroku create carmania2, heroku deploy | enjoy and dont forget to sign in and try my app! |
 
 # Carmania_capstone

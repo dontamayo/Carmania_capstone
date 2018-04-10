@@ -15,6 +15,8 @@
     height:330px;
     background-size: cover !important;
     background-repeat: no-repeat !important;
+    max-width: 98%;
+
 }
 
 .featured_caption {

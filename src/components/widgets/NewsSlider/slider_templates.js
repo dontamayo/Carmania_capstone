@@ -12,8 +12,8 @@ const SliderTemplates = (props) => {
         dots:false,
         infinite: true,
         arrows: true,
-        speed: 300,
-        slidesToShow: 1,
+        speed: 400,
+        slidesToShow: 2,
         slidesToScroll:1,
         ...props.settings
     }

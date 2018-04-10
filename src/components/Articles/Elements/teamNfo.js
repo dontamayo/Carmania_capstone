@@ -18,7 +18,7 @@ const teamNfo = (props) => (
             </div>
             <div>
                     Used {props.team.stats[0].wins}__
-                     New {props.team.stats[0].defeats}
+                    New {props.team.stats[0].defeats}
 
             </div>
             <div className={styles.shopcart}>

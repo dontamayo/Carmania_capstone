@@ -84,3 +84,20 @@
 .videoWrapper iframe {
     border:0;
 }
+
+
+.shopcart .shopright {
+    min-width: 25%;
+    background: #CCDBE0;
+    color: #fff;
+    box-sizing: border-box;
+    padding: 3px;
+    font-weight: 10px;
+    font-size: 14px;
+    width: 10px;
+    border-radius: 10px;
+    justify-content: center;
+    align-items: center;
+    margin-right: 5px;
+
+}

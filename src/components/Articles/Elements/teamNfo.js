@@ -21,8 +21,10 @@ const teamNfo = (props) => (
                      New {props.team.stats[0].defeats}
 
             </div>
-            <div className="shop">
-             <a href="http://sellacar.carnationautobuyers.com/?gclid=Cj0KCQjwnqzWBRC_ARIsABSMVTMYwXCBBAPD4yqj-NrL2EajEHG5VnWrRxqb6bu547D8Ctd-f-WgDw0aAqVxEALw_wcB" target="_blank">Visit our Car Shop</a>
+            <div className={styles.shopcart}>
+              <div className={styles.shopright}>
+                <a href="https://dontamayo.github.io/Q1_cars_2nd/" target="_blank"><strong>More on CarMania</strong></a>
+              </div>
            </div>
         </div>
     </div>

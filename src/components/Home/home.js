@@ -11,9 +11,9 @@ const Home = () =>{
             <NewsSlider
                 type="featured"
                 start={0}
-                amount={3}
+                amount={5}
                 settings={{
-                    dots:false
+                    dots:true
                 }}
             />
             <NewsList
